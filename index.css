@@ -1,0 +1,75 @@
+p{
+    color: rgb(248, 211, 5);
+    text-shadow:4px 4px 5px  #C727B2;
+    box-shadow: 3px 5px 10px 3px  #2c2c2b;
+    background: #07a2fb29;
+    font-size: 50px;
+    border-width: 5px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: red;
+    width: 170px;
+    margin-top: 2px;
+    margin-bottom: -9%;
+    height: 170px;
+    line-height: 170px;
+}
+div{
+    color: yellow;
+    width: 550px;
+    height: 80px;
+    font-size: 70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    margin-left: 390px;
+    margin-top: 0%;
+    margin-bottom: 4%;
+    text-align: center;
+    border-color: rgba(7, 238, 11, 0.932);
+    border-width: 7px;
+    border-radius: 37%;
+    border-style: solid;}
+div1{
+    height: 45px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: rgb(241, 245, 250);
+    box-shadow: 4px 4px 8px 2px #64adb9;
+    margin-left: 70px;
+    margin-top: ;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 20px;
+    padding: 2%;
+}
+div2{
+    height: 45px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    box-shadow: 4px 4px 8px 2px rgb(108, 224, 222);
+    margin-left: 200px;
+    margin-top: 100px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 50px;
+    padding: 2%;
+}
+div3{
+    height: 45px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    box-shadow: 4px 4px 8px 2px grey;
+    margin-left: 250px;
+    margin-top: 100px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 20px;
+    padding: 2%;
+}
